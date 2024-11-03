@@ -65,8 +65,8 @@ I am known for my quick learning ability and for taking charge in challenging si
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDincer&show_icons=true&theme=solarized-light&card_width=450)
-![GitHub Streak](https://streak-stats.demolab.com/?user=HamzaDincer&theme=solarized-light&card_width=450)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDincer&show_icons=true&theme=solarized-light&card_width=400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HamzaDincer&theme=solarized-light&card_width=400)
 
 
 ---
