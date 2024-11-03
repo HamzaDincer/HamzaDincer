@@ -1,10 +1,10 @@
 # Hi there, I'm Hamza Dincer! 👋
 
-Blending a rich academic background of cognitive science with cutting-edge software engineering, I bring a unique perspective to real-life applications of theoretical concepts. My transition to software development was driven by the desire to make tangible contributions using my skills. 
+- Blending a rich academic background of cognitive science with cutting-edge software engineering, I bring a unique perspective to real-life applications of theoretical concepts. My transition to software development was driven by the desire to make tangible contributions using my skills. 
 
-As a Junior Software Developer, I am proficient in JavaScript, Python, AI&Machine Learning and AWS, which enables me to create innovative and impactful solutions. My academic experience not only equips me with deep theoretical knowledge but also fosters an out-of-the-box thinking approach that I apply in the industry. 
+- As a Junior Software Developer, I am proficient in JavaScript, Python, AI&Machine Learning and AWS, which enables me to create innovative and impactful solutions. My academic experience not only equips me with deep theoretical knowledge but also fosters an out-of-the-box thinking approach that I apply in the industry. 
 
-I am known for my quick learning ability and for taking charge in challenging situations, ensuring that project goals are met with creativity and efficiency. I am excited to continue merging academic insights with practical software development, pushing boundaries and driving progress in the tech world.
+- I am known for my quick learning ability and for taking charge in challenging situations, ensuring that project goals are met with creativity and efficiency. I am excited to continue merging academic insights with practical software development, pushing boundaries and driving progress in the tech world.
 
 ---
 
@@ -65,22 +65,29 @@ I am known for my quick learning ability and for taking charge in challenging si
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDincer&show_icons=true&theme=solarized-light&card_width=400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=HamzaDincer&theme=solarized-light&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDincer&show_icons=true&theme=solarized-light&card_width=350&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HamzaDincer&theme=solarized-light&card_width=400&hide_border=true)
 
 
 ---
 
 ### 🚀 Featured Projects
-- [**imentis-backend**](https://github.com/yourusername/imentis-backend): A backend project involving Docker, Spring Boot, PostgreSQL, and Keycloak integration.
-- [**Trust Game Experiment**](https://github.com/yourusername/trust-game-experiment): Inferring trust reciprocity through machine learning in repeated trust games.
-- [**Course Organizer**](https://github.com/yourusername/course-organizer): A Python & JavaScript tool to improve semester course organization efficiency.
+
+- [**Trust Game Experiment**](https://github.com/HamzaDincer/trust-game-experiment): Inferring trust reciprocity through machine learning in repeated trust games.
+- [**Course Organizer**](https://github.com/HamzaDincer/course-organizer): A Python & JavaScript tool to improve semester course organization efficiency.
+- [**TheRoom**](https://github.com/HamzaDincer/the-room-client): A project focused on immersive experiences through a dynamic, interactive client interface.
+- [**Microsoft Malware Detection**](https://github.com/HamzaDincer/microsoft_malware_detection): Leveraging machine learning to detect and classify malware within the Microsoft ecosystem.
+- [**Industry Challenge (theScore-client)**](https://github.com/HamzaDincer/theScore-client): A client-side project for theScore industry challenge, demonstrating skills in sports analytics and real-time data handling.
+- [**Stock Tracker**](https://github.com/HamzaDincer/stock-tracker): A tool for tracking and visualizing stock performance, built to help users make data-driven investment decisions.
+
 
 ---
 
-### 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hamza-dincer)
-- Email: [hamzamustakdincer@gmail.com](mailto:hamzamustakdincer@gmail.com)
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-dincer)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzamustakdincer@gmail.com)
+
 
 ---
 
