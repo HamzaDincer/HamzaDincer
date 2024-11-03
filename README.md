@@ -1,14 +1,18 @@
 # Hi there, I'm Hamza Dincer! 👋
 
-I'm a passionate Software Developer based in Toronto, Canada. I specialize in designing and developing AI chatbots and have experience with JavaScript, AWS, Svelte, and more.
+Blending a rich academic background of cognitive science with cutting-edge software engineering, I bring a unique perspective to real-life applications of theoretical concepts. My transition to software development was driven by the desire to make tangible contributions using my skills. 
+
+As a Junior Software Developer, I am proficient in JavaScript, Python, AI&Machine Learning and AWS, which enables me to create innovative and impactful solutions. My academic experience not only equips me with deep theoretical knowledge but also fosters an out-of-the-box thinking approach that I apply in the industry. 
+
+I am known for my quick learning ability and for taking charge in challenging situations, ensuring that project goals are met with creativity and efficiency. I am excited to continue merging academic insights with practical software development, pushing boundaries and driving progress in the tech world.
 
 ---
 
 ### 🔍 About Me
 - 💼 Currently working at **Zyfera** as a Junior Software Developer
 - 🌐 Working on a [personal website](https://hamza-dincer.vercel.app) showcasing my skills and projects
-- 🎓 Developed projects like the Trust Game Experiment and contributed to industry challenges
-- 🌱 Actively learning new technologies and advancing my skills in AI development
+- 🎓 Developed projects like the Trust Game Experiment, TheRoom, and contributed to Webdroid, Imentis, Industry challenge of eScore etc.
+- 🌱 Actively learning new technologies and advancing my skills
 
 ### 💻 Tech Stack
 
