@@ -19,7 +19,7 @@ I'm a passionate Software Developer based in Toronto, Canada. I specialize in de
 ---
 
 ### 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaDincer&show_icons=true&theme=radical&count_private=true)
 
 ---
 
